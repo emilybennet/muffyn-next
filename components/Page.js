@@ -71,7 +71,7 @@ const Page = props => (
         <meta property="og:url" content="https://muffyn.org" />
         <meta
           property="og:image"
-          content="http://muffyn.org/static/images/opengraph.png"
+          content="http://muffyn.org/static/opengraph.png"
           key="opengraphImage"
         />
       </Head>
