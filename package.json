@@ -5,8 +5,9 @@
   "description": "A fun parody to spread good will.",
   "main": "index.js",
   "scripts": {
-    "dev": "next",
     "build": "next build",
+    "export": "npm run build && next export",
+    "dev": "next",
     "start": "next start"
   },
   "author": "Emily Bennet",
