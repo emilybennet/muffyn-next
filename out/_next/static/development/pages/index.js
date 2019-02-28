@@ -13818,7 +13818,7 @@ var HomePage = function HomePage(props) {
     },
     __self: this
   }, react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_Button__WEBPACK_IMPORTED_MODULE_5__["default"], {
-    text: "Get The Avatar",
+    text: "Get The Muffyn",
     url: "/avatar",
     __source: {
       fileName: _jsxFileName,
@@ -13826,7 +13826,7 @@ var HomePage = function HomePage(props) {
     },
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_0___default.a.createElement(_components_Button__WEBPACK_IMPORTED_MODULE_5__["default"], {
-    text: "Spread The Muffin",
+    text: "Spread The Muffyn",
     url: "/static/Muffyn_Festival-Signal_Boost.zip",
     __source: {
       fileName: _jsxFileName,

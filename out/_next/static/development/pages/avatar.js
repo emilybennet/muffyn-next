@@ -14154,13 +14154,13 @@ function (_React$Component) {
           lineNumber: 123
         },
         __self: this
-      }, "Avatar Creater"), react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(StyledP, {
+      }, "Muffyn Maker"), react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(StyledP, {
         __source: {
           fileName: _jsxFileName,
           lineNumber: 124
         },
         __self: this
-      }, "Spread the muffin by adding one to your social media avatar."), !this.state.image && react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(UploadForm, {
+      }, "Spread the muffyn by adding one to your social media profile photo."), !this.state.image && react__WEBPACK_IMPORTED_MODULE_9___default.a.createElement(UploadForm, {
         processAvatar: this.processAvatar,
         __source: {
           fileName: _jsxFileName,
@@ -14192,7 +14192,7 @@ function (_React$Component) {
 
 /***/ }),
 
-/***/ 3:
+/***/ 2:
 /*!**********************************************************************************************************************************************************!*\
   !*** multi next-client-pages-loader?page=%2Favatar&absolutePagePath=%2FUsers%2Febennet%2FProjects%2FBronyCon%2FMuffyn%2Fmuffyn-next%2Fpages%2Favatar.js ***!
   \**********************************************************************************************************************************************************/
@@ -14215,5 +14215,5 @@ module.exports = dll_3681e7fd756237ce51c6;
 
 /***/ })
 
-},[[3,"static/runtime/webpack.js"]]]));;
+},[[2,"static/runtime/webpack.js"]]]));;
 //# sourceMappingURL=avatar.js.map
