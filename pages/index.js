@@ -39,9 +39,9 @@ const HomePage = props => {
       <Title>On March 1st</Title>
       <StyledP>Be wholesome by performing random acts of kindness.</StyledP>
       <Cta>
-        <Button text="Get The Avatar" url="/avatar" />
+        <Button text="Get The Muffyn" url="/avatar" />
         <Button
-          text="Spread The Muffin"
+          text="Spread The Muffyn"
           url="/static/Muffyn_Festival-Signal_Boost.zip"
         />
       </Cta>

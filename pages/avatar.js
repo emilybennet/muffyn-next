@@ -120,9 +120,9 @@ class CreateAvatarPage extends React.Component {
     return (
       <Container>
         <MuffynLogoSvg />
-        <Title>Avatar Creater</Title>
+        <Title>Muffyn Maker</Title>
         <StyledP>
-          Spread the muffin by adding one to your social media avatar.
+          Spread the muffyn by adding one to your social media profile photo.
         </StyledP>
         {!this.state.image && <UploadForm processAvatar={this.processAvatar} />}
         {this.state.image && <img src={this.state.image} />}
