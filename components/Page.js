@@ -65,7 +65,7 @@ const Page = props => (
         <meta property="og:title" content="Muffyn Festival 2019" />
         <meta
           property="og:description"
-          content="On March 1, be wholesome by performing random acts of kindness."
+          content="On March 1st, be wholesome by performing random acts of kindness."
         />
         <meta property="og:type" content="website" />
         <meta property="og:url" content="https://muffyn.org" />
