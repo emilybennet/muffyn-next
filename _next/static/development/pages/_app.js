@@ -189,7 +189,7 @@ var Page = function Page(props) {
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("meta", {
     property: "og:description",
-    content: "On March 1, be wholesome by performing random acts of kindness.",
+    content: "On March 1st, be wholesome by performing random acts of kindness.",
     __source: {
       fileName: _jsxFileName,
       lineNumber: 66
@@ -213,7 +213,7 @@ var Page = function Page(props) {
     __self: this
   }), react__WEBPACK_IMPORTED_MODULE_1___default.a.createElement("meta", {
     property: "og:image",
-    content: "http://muffyn.org/static/images/opengraph.png",
+    content: "http://muffyn.org/static/opengraph.png",
     key: "opengraphImage",
     __source: {
       fileName: _jsxFileName,
