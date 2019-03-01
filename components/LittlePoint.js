@@ -6,6 +6,6 @@ const Point = styled.span`
   margin-left: 3px;
 `;
 
-const LittlePoint = props => <Point>▶</Point>;
+const LittlePoint = props => <Point>▶&#xFE0E;</Point>;
 
 export default LittlePoint;
