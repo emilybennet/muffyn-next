@@ -104,7 +104,7 @@ var LittlePoint = function LittlePoint(props) {
       lineNumber: 9
     },
     __self: this
-  }, "\u25B6");
+  }, "\u25B6\uFE0E");
 };
 
 /* harmony default export */ __webpack_exports__["default"] = (LittlePoint);
